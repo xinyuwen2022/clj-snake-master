@@ -1,0 +1,2 @@
+(load-file"~/core.clj")
+(+1 2)
