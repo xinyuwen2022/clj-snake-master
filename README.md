@@ -18,11 +18,3 @@ Our Project uses Leiningen. It is a build automation and dependency management t
 Use the arrow keys to move.
 
 To Start or Pause the game Press Enter or a Mouse Click.
-
-
-## License
-
-Copyright © 2022 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
